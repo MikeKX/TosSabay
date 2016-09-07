@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TosSabay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <?xml version="1.0" encoding="utf-8"?>
+    <string name="TosSby">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+</resources>
